@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhairewelch
 - 👀 I’m interested in Data Science and Supply Chain Solutions
-- 🌱 I’m currently learning Python, Power BI, PostgreSLQL
+- 🌱 I’m currently learning Python, Power BI, PostgreSQL
 - 💞️ I’m looking to collaborate on learning exercises and externships
 - 📫 How to reach me welchzhaire@gmail.com
 - 😄 Pronouns: he/him/his
